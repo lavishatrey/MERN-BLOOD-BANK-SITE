@@ -14,31 +14,7 @@ const AdminHome = () => {
           <h3>Manage Blood Bank App </h3>
           <hr />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad
-            explicabo animi blanditiis incidunt dicta quia, quibusdam facere
-            corporis! Dolores, reprehenderit cum sed repellat laudantium
-            architecto natus est nostrum accusamus, odio aspernatur minima
-            fugiat quam molestiae nisi. Temporibus impedit dolorem quia.
-            Distinctio modi non excepturi illo odio voluptatum quae nostrum a
-            temporibus sequi! Explicabo, quasi consequatur ad qui quos labore
-            distinctio voluptates alias nostrum ab dicta aspernatur molestias
-            adipisci quibusdam error ipsa. Totam, tenetur dolores eaque tempora
-            officiis deserunt assumenda? Rerum nemo est nihil laudantium
-            necessitatibus. Possimus, voluptatem voluptates blanditiis quas
-            aspernatur, quam, quaerat minus maiores ipsam sint perferendis
-            dolor. Dignissimos voluptatem doloribus sint in quis omnis, atque
-            neque praesentium voluptatum suscipit. Quas esse, accusantium maxime
-            obcaecati iure officiis aperiam minus alias quod cum quos qui
-            voluptatibus, numquam, ad id dolore odit! Minima laudantium sunt,
-            explicabo nesciunt quos voluptatibus qui libero eligendi praesentium
-            debitis obcaecati similique assumenda nobis labore totam dolore
-            perferendis adipisci fugiat quibusdam tempore doloremque voluptatum
-            accusantium. Accusamus, incidunt sequi. Esse sunt officia fuga,
-            officiis saepe tempora repellat suscipit aliquid cupiditate
-            perferendis, asperiores architecto molestiae rem iste eaque
-            molestias reiciendis. Laborum modi asperiores, reprehenderit
-            assumenda numquam, vitae exercitationem illum nesciunt, dolorum
-            deleniti accusamus consequatur id. Necessitatibus dolore ad fugit?
+          Welcome to our Blood Donation Portal, a unified platform designed to streamline the blood donation process for individuals and organizations alike. Whether you're an individual donor, an administrator, a hospital representative, or part of an organization, our site offers a seamless experience to facilitate and manage blood donations. We provide easy registration, appointment scheduling, and donation tracking for donors, while admins can oversee user management and event coordination. Hospitals benefit from efficient blood request and inventory management, and organizations can partner with us to host donation drives and engage their communities. Join us in our mission to ensure a steady and reliable supply of blood for those in need, fostering a connected community dedicated to saving lives.
           </p>
         </div>
       </div>
