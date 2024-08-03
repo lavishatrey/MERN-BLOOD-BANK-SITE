@@ -3,12 +3,18 @@
   "version": "1.0.0",
   "description": "mern blood bank app",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon server.js",
-    "client": "npm start --prefix ./client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
-  },
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "server": "nodemon server.js",
+  "client": "npm start --prefix ./client",
+  "client:install": "npm install --prefix ./client",
+  "client:build": "npm run build --prefix ./client",
+  "client:start": "npm run start --prefix ./client",
+  "dev": "concurrently \"npm run server\" \"npm run client\"",
+  "install-all": "npm install && npm run client:install",
+  "build": "npm run client:build",
+  "start": "npm run server"
+},
   "author": "techinfoyt",
   "license": "ISC",
   "dependencies": {
